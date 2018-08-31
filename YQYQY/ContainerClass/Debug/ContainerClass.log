@@ -1,0 +1,41 @@
+﻿生成启动时间为 2018/8/15 9:45:11。
+     1>项目“C:\Users\g04480\Desktop\你们的小可爱\YQYQY\ContainerClass\ContainerClass.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\ContainerClass.lastbuildstate”。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : 对路径“C:\USERS\G04480\DESKTOP\你们的小可爱\YQYQY\DEBUG\CONTAINERCLASS.DLL”的访问被拒绝。
+       InitializeBuildStatus:
+         正在创建“Debug\ContainerClass.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CONTAINERCLASS_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\ContainerClass.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CONTAINERCLASS_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ContainerClass.cpp mainEntrance.cpp
+         mainEntrance.cpp
+     1>c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\mainentrance.cpp(9): warning C4273: “mainEntrance”: dll 链接不一致
+                 c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\mainentrancedll.h(8) : 参见“mainEntrance”的前一个定义
+     1>c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\mainentrance.cpp(23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\mainentrance.cpp(36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\mainentrance.cpp(41): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\mainentrance.cpp(54): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\mainentrance.cpp(134): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         ContainerClass.cpp
+     1>c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\containerclass.cpp(108): warning C4101: “array”: 未引用的局部变量
+     1>c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\containerclass.cpp(442): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\containerclass.cpp(447): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\g04480\desktop\你们的小可爱\yqyqy\containerclass\containerclass.cpp(387): warning C4101: “array”: 未引用的局部变量
+         正在生成代码...
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CONTAINERCLASS_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ContainerClass.dll.embed.manifest.res" Debug\ContainerClass_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\g04480\Desktop\你们的小可爱\YQYQY\Debug\ContainerClass.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ContainerClass.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\g04480\Desktop\你们的小可爱\YQYQY\Debug\ContainerClass.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\g04480\Desktop\你们的小可爱\YQYQY\Debug\ContainerClass.lib" /MACHINE:X86 /DLL Debug\ContainerClass.dll.embed.manifest.res
+         Debug\ContainerClass.obj
+         Debug\dllmain.obj
+         Debug\mainEntrance.obj
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1104: 无法打开文件“C:\Users\g04480\Desktop\你们的小可爱\YQYQY\Debug\ContainerClass.dll”
+     1>已完成生成项目“C:\Users\g04480\Desktop\你们的小可爱\YQYQY\ContainerClass\ContainerClass.vcxproj”(rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.45

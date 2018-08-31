@@ -1,0 +1,5 @@
+C:\Users\g04480\Desktop\你们的小可爱\MPING\MPING\bin\MPING.dll
+C:\Users\g04480\Desktop\你们的小可爱\MPING\MPING\bin\MPING.pdb
+C:\Users\g04480\Desktop\你们的小可爱\MPING\MPING\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\g04480\Desktop\你们的小可爱\MPING\MPING\obj\Debug\MPING.dll
+C:\Users\g04480\Desktop\你们的小可爱\MPING\MPING\obj\Debug\MPING.pdb

@@ -1,0 +1,10 @@
+C:\Users\g04480\Desktop\你们的小可爱\MPING\MPING\obj\Release\ResolveAssemblyReference.cache
+C:\Users\g04480\Desktop\你们的小可爱\MPING\MPING\bin\MPING.dll
+C:\Users\g04480\Desktop\你们的小可爱\MPING\MPING\bin\MPING.pdb
+C:\Users\g04480\Desktop\你们的小可爱\MPING\MPING\obj\Release\MPING.dll
+C:\Users\g04480\Desktop\你们的小可爱\MPING\MPING\obj\Release\MPING.pdb
+D:\你们的小可爱\MPING\MPING\bin\MPING.dll
+D:\你们的小可爱\MPING\MPING\bin\MPING.pdb
+D:\你们的小可爱\MPING\MPING\obj\Release\ResolveAssemblyReference.cache
+D:\你们的小可爱\MPING\MPING\obj\Release\MPING.dll
+D:\你们的小可爱\MPING\MPING\obj\Release\MPING.pdb
